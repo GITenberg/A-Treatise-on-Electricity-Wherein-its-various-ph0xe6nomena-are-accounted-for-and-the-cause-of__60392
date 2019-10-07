@@ -1,0 +1,30 @@
+_repo: A-Treatise-on-Electricity-Wherein-its-various-ph0xe6nomena-are-accounted-for-and-the-cause-of__60392
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Penrose, Francis
+    alias: Penrose, F. (Francis)
+    birthdate: 1718
+    deathdate: 1798
+    gutenberg_agent_id: '50942'
+    url: http://www.gutenberg.org/2009/agents/50942
+description: ''
+gutenberg_issued: '2019-09-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60392'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QC'
+- !lcsh 'Electricity -- Early works to 1850'
+- !lcsh 'Electrotherapeutics -- Early works to 1800'
+- GITenberg
+title: "A Treatise on Electricity\r\nWherein its various phænomena are accounted for,\
+  \ and the cause of the attraction and gravitation of solids, assigned. To which\
+  \ is added, a short account, how the electrical effluvia act upon the animal frame,\
+  \ and in what disorders the same may probably be applied with success, and in what\
+  \ not."
+url: http://www.gutenberg.org/ebooks/60392
